@@ -1,5 +1,7 @@
 # Sudoku Toolkits
 
+**Collaborator： @georgeDuSH**
+
 `sudoku_toolkit` is an end to end Sudoku generate, diagnose and solve package.  
 
 You can easily play Sudoku puzzle by input your 9x9 matrix, use the case provided, or even launch a completely random one by our algorithm! Don't worry, these generated Sudokus are well-defined, i.e. they only has one unique solution. Moreover, you can ask for help by calling some solvers, to get more clues or check your solution.
